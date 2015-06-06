@@ -7,7 +7,7 @@ Plugin for generating transliterated slugs (Cyrillic symbols: Ukrainian or Russi
 
 ```js
 $(document).ready(function(){
-         $('#articleTitle').syncTranslit({destination: 'slug'});
+    $('#articleTitle').syncTranslit({destination: 'slug'});
 });
 ```
 
